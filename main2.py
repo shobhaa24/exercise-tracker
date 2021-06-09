@@ -1,8 +1,6 @@
 import requests
 from datetime import datetime
 import os
-# APP_ID = "67450cf0"
-# API_KEY = "5de8584fd6cae97b72de919d77357541"
 
 GENDER = "female"
 WEIGHT = 51
